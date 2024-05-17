@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadeerAbdelwahab
-- 👀 I’m interested in coding
+- 👀 I’m interested in CS
 - 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me gmail:hadeerabdelwahab16@gmail.com
 - ⚡ Fun fact: I love cooking
